@@ -20,3 +20,39 @@
 .App-link {
   color: #09d3ac;
 }
+.header {
+  padding: 10px;
+  background-color: #bdbdbd;
+}
+.view-type {
+  margin: auto;
+}
+.view-type-item {
+  display: inline-block;
+  box-sizing: border-box;
+  position: relative;
+  height: 48px;
+  width: 200px;
+  line-height: 48px;
+  background-color: #1977d3;
+  border-color: #1977d3 !important;
+  color: #ffffff;
+  margin: 5px;
+}
+
+.view-header{
+  padding: 10px 0;
+  text-decoration: underline;
+}
+.container{
+  padding: 20px;
+}
+.steps{
+  text-align: left;
+  background-color: #eeeeee;
+  margin-top: 15px;
+}
+.steps .step{
+  padding: 5px 0;
+  color: #021d37;
+}
